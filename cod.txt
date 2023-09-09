@@ -1,0 +1,5 @@
+funktion (
+	if number is number (
+		variaibl = vel'u
+	)
+)
